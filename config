@@ -1,0 +1,16 @@
+color=000000
+
+indicator-thickness=6
+separator-color=00000000
+text-clear-color=ff8000
+ring-clear-color=ff8000
+text-ver-color=0000ff
+ring-ver-color=0000ff
+ring-wrong-color=ff0000
+text-wrong-color=ff0000
+
+inside-color=000000
+inside-clear-color=000000
+inside-caps-lock-color=000000
+inside-ver-color=000000
+inside-wrong-color=000000
