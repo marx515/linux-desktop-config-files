@@ -1,0 +1,15 @@
+{
+    "layer": "top",
+    "position": "bottom",
+    "margin-bottom": 0,
+    "margin-right": 0,
+    "margin-left": 1745,
+    "exclusive": false,
+    "modules-right": ["clock"],
+    "modules-center": [],
+    "modules-left": [],
+    "clock": {
+        "interval": 1,
+        "format": "{:%Y-%m-%d  %H:%M:%S}"
+    }
+}

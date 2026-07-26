@@ -1,0 +1,13 @@
+window#waybar {
+    background-color: #285577;
+    color: #ffffff;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #4c7899;
+    font-family: "JetBrains Mono", "monospace";
+    font-size: 14px;
+}
+
+#clock {
+    padding: 4px 7px;
+}
