@@ -23,9 +23,6 @@ exec {app binary}
 # Blue light filter
 exec gammastep -l {LAT}:{LAT} -t 6500:4500
 
-# High performance mode (Pop!_OS)
-exec system76-power profile performance
-
 # Date and time widget
 exec waybar -c {path to waybar .json config file} -s {path to waybar .css config file}
 
