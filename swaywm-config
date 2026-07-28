@@ -45,7 +45,7 @@ input "{mouse identifier}" {
 input "{keyboard identifier}" {
 	repeat_delay 400
 	repeat_rate 40
-    # Find available layouts in LAYOUTS section in man (7) xkeyboard-config 
+    # Find available layouts in LAYOUTS section in xkeyboard-config(7)
 	xkb_layout us,{layout}...
     # Toggle layouts with Alt+Caps Lock
 	xkb_options grp:alt_caps_toggle
