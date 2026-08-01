@@ -1,5 +1,3 @@
--- Write in ~/.config/nvim/init.lua
-
 -- theme & transparency
 vim.cmd.colorscheme("slate")
 
