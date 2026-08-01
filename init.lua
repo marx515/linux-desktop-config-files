@@ -1,3 +1,5 @@
+-- config file for Neovim ~/.config/nvim/init.lua
+
 -- theme & transparency
 vim.cmd.colorscheme("slate")
 
